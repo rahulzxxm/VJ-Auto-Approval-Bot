@@ -5,6 +5,9 @@
 **For Old Pending All Join Request Use This Repo [Click Here](https://github.com/rahulzxxm/VJ-Join-Request-Acceptor-Bot)**
 
 ## 🚀 Demo Bot
+
+[![Deploy to heroku chacha](https://dashboard.heroku.com/new-app?template=https://github.com/rahulzxxm/VJ-Join-Request-Acceptor-Bot)
+
 - [Demo Bot](https://youtube.com/@TechVJ)
 
 ## How To Deploy [Video Tutorial](https://youtu.be/M76T4pKm6ks)
