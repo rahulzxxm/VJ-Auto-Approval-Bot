@@ -6,7 +6,7 @@
 
 ## 🚀 Demo Bot
 
-https://dashboard.heroku.com/new-app?template=https://github.com/rahulzxxm/VJ-Join-Request-Acceptor-Bot
+https://dashboard.heroku.com/new-app?template=https://github.com/rahulzxxm/accept
 
 - [Demo Bot](https://youtube.com/@TechVJ)
 
